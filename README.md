@@ -1,11 +1,5 @@
 # README #
-
-## Updated code ##
-
-For an updated automation code, training, and cybersecurity in the cloud please check out 2nd Sight Lab's Cloud Security Architecture and Engineering class. We build labs that help students understand cloud security, automation, and give you code you can take back and use!
-
-Cloud Security Training:
-https://2ndsightlab.com/cloud-security-training.html
+This code is old. I recommend checking out the 2sl-jobexecframework and related repositories.
 
 ### What is this repository for? ###
  
