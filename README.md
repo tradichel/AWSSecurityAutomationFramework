@@ -1,5 +1,9 @@
 # README #
-This code is old. I recommend checking out the 2sl-jobexecframework and related repositories.
+Updated code at https://github.com/2ndSightLab
+
+I wrote this to explain how to create a secure framework for batch jobs before I knew they would be all the rage in the form of AI agents.
+
+Find me: Teri Radichel on LinkedIn @tradichel almost everywhere else (X, Threads, Mastodon. Bluesky, etc.)
 
 ### What is this repository for? ###
  
